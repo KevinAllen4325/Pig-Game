@@ -7,4 +7,4 @@
 5. Default winning score is 100 points, but user can change it to whatever they'd like.
 ### [Live Demo](https://kevinallen4325.github.io/Pig-Game/)
 
-![screencapture-127-0-0-1-56400-index-html-1496890602130](https://user-images.githubusercontent.com/26398311/26910426-5b6d92e4-4bcc-11e7-927b-6d20cb3e3d19.png)
+![screencapture-kevinallen4325-github-io-pig-game-1496947833788](https://user-images.githubusercontent.com/26398311/26945487-7ed25d66-4c51-11e7-81b9-370a834de0eb.png)
