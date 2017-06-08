@@ -1,5 +1,5 @@
 # Pig-Game
-# GAME RULES:
+## GAME RULES:
 1. The game has 2 players
 2. each turn, a player rolls a dice as many times as they whish. results get added to their round score
 3. if the player rolls a 1, all his round scores get lost and it switches to the next player
